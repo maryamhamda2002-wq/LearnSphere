@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "کیا ہم ہر روز صبح سیر کرتے ہیں؟",
+    "options": ["Do we walk every day in the morning?", "Do we eat food?", "Do we read books?", "Do we play cricket?"],
+    "answer": "Do we walk every day in the morning?"
+  },
+  {
+    "question": "کیا وہ اچھا گانا گاتا ہے؟",
+    "options": ["Does he sing well?", "Does he write a letter?", "Does he eat meal?", "Does he run fast?"],
+    "answer": "Does he sing well?"
+  },
+  {
+    "question": "کیا ڈرائیور گاڑی چلاتا ہے؟",
+    "options": ["Does the driver drive the vehicle?", "Does the teacher teach?", "Does the baby cry?", "Does she read a book?"],
+    "answer": "Does the driver drive the vehicle?"
+  },
+  {
+    "question": "کیا پرندہ ہوا میں اڑتا ہے؟",
+    "options": ["Does the bird fly in the air?", "Does he run fast?", "Does she watch TV?", "Does the baby eat?"],
+    "answer": "Does the bird fly in the air?"
+  },
+  {
+    "question": "کیا بچہ دودھ کے لیے روتا ہے؟",
+    "options": ["Does the baby cry for milk?", "Does he write a letter?", "Does she cook meal?", "Does the teacher sit?"],
+    "answer": "Does the baby cry for milk?"
+  },
+  {
+    "question": "کیا تم اس کا مذاق اُڑاتے ہو؟",
+    "options": ["Do you make fun of him?", "Do you drink water?", "Do you study Math?", "Do you run fast?"],
+    "answer": "Do you make fun of him?"
+  },
+  {
+    "question": "کیا میں کرکٹ کھیلتا ہوں؟",
+    "options": ["Do I play cricket?", "Do I eat food?", "Do I read book?", "Do I run fast?"],
+    "answer": "Do I play cricket?"
+  },
+  {
+    "question": "کیا وہ ہر روز سکول جاتا ہے؟",
+    "options": ["Does he go to school every day?", "Does he eat food?", "Does he play cricket?", "Does he write a letter?"],
+    "answer": "Does he go to school every day?"
+  },
+  {
+    "question": "کیا وہ کھانا کھاتے ہیں؟",
+    "options": ["Do they eat meal?", "Do they run fast?", "Do they study?", "Do they play cricket?"],
+    "answer": "Do they eat meal?"
+  },
+  {
+    "question": "کیا وہ کتاب پڑھتی ہے؟",
+    "options": ["Does she read a book?", "Does she cook meal?", "Does she dance?", "Does she sing?"],
+    "answer": "Does she read a book?"
+  },
+  {
+    "question": "ہم دیوار پر نہیں چڑھتے۔",
+    "options": ["We do not climb the wall.", "We climb the wall.", "We do not eat meal.", "We do not run fast."],
+    "answer": "We do not climb the wall."
+  },
+  {
+    "question": "ہم پارٹی سے لطف اندوز نہیں ہوتے۔",
+    "options": ["We do not enjoy the party.", "We enjoy the party.", "We do not read books.", "We do not sing songs."],
+    "answer": "We do not enjoy the party."
+  },
+  {
+    "question": "عاصم شادی نہیں کرنا چاہتا۔",
+    "options": ["Asim does not want to marry.", "Asim wants to marry.", "Asim does not eat meal.", "Asim does not play cricket."],
+    "answer": "Asim does not want to marry."
+  },
+  {
+    "question": "زمین سورج کے اردگرد نہیں گھومتی۔",
+    "options": ["The earth does not revolve around the sun.", "The earth revolves around the sun.", "The sun does not revolve.", "The earth does not move."],
+    "answer": "The earth does not revolve around the sun."
+  },
+  {
+    "question": "ہم جلدی نہیں سوتے ہیں۔",
+    "options": ["We do not go to sleep early.", "We go to sleep early.", "We do not eat meal.", "We do not study."],
+    "answer": "We do not go to sleep early."
+  },
+  {
+    "question": "میں ہسپانوی نہیں بولتی۔",
+    "options": ["I do not speak Spanish.", "I speak Spanish.", "I do not read books.", "I do not write letters."],
+    "answer": "I do not speak Spanish."
+  },
+  {
+    "question": "اسے مصالحے دار کھانا پسند نہیں ہے۔",
+    "options": ["He does not like spicy food.", "He likes spicy food.", "He does not eat meal.", "He does not drink water."],
+    "answer": "He does not like spicy food."
+  },
+  {
+    "question": "وہ ٹینس نہیں کھیلتے۔",
+    "options": ["They do not play tennis.", "They play tennis.", "They do not study.", "They do not read books."],
+    "answer": "They do not play tennis."
+  },
+  {
+    "question": "وہ ڈراؤنی فلمیں نہیں دیکھتی۔",
+    "options": ["She does not watch horror movies.", "She watches horror movies.", "She does not play games.", "She does not read books."],
+    "answer": "She does not watch horror movies."
+  },
+  {
+    "question": "ہم گوشت نہیں کھاتے۔",
+    "options": ["We do not eat meat.", "We eat meat.", "We do not drink water.", "We do not play cricket."],
+    "answer": "We do not eat meat."
+  },
+  {
+    "question": "کیا ہم ہر روز صبح سیر کرتے ہیں؟",
+    "options": ["Do we walk every day in the morning?", "We walk every day in the morning.", "Do we run every day in the morning?", "Do we eat every day in the morning?"],
+    "answer": "Do we walk every day in the morning?"
+  },
+  {
+    "question": "کیا وہ اچھا گانا گاتا ہے؟",
+    "options": ["Does he sing well?", "He sings well.", "Does he dance well?", "Does he run fast?"],
+    "answer": "Does he sing well?"
+  },
+  {
+    "question": "کیا ڈرائیور گاڑی چلاتا ہے؟",
+    "options": ["Does the driver drive the vehicle?", "The driver drives the vehicle.", "Does the driver walk?", "Does the driver run?"],
+    "answer": "Does the driver drive the vehicle?"
+  },
+  {
+    "question": "کیا پرندہ ہوا میں اڑتا ہے؟",
+    "options": ["Does the bird fly in the air?", "The bird flies in the air.", "Does the bird swim?", "Does the bird run?"],
+    "answer": "Does the bird fly in the air?"
+  },
+  {
+    "question": "کیا بچہ دودھ کے لیے روتا ہے؟",
+    "options": ["Does the baby cry for milk?", "The baby cries for milk.", "Does the baby sleep?", "Does the baby play?"],
+    "answer": "Does the baby cry for milk?"
+  },
+  {
+    "question": "کیا تم اس کا مذاق اُڑاتے ہو؟",
+    "options": ["Do you make fun of him?", "You make fun of him.", "Do you like him?", "Do you play with him?"],
+    "answer": "Do you make fun of him?"
+  },
+  {
+    "question": "کیا میں کرکٹ کھیلتا ہوں؟",
+    "options": ["Do I play cricket?", "I play cricket.", "Do I sing cricket?", "Do I swim cricket?"],
+    "answer": "Do I play cricket?"
+  },
+  {
+    "question": "کیا وہ ہر روز سکول جاتا ہے؟",
+    "options": ["Does he go to school every day?", "He goes to school every day.", "Does he play at school every day?", "Does he eat at school every day?"],
+    "answer": "Does he go to school every day?"
+  },
+  {
+    "question": "کیا وہ کتاب پڑھتی ہے؟",
+    "options": ["Does she read a book?", "She reads a book.", "Does she write a book?", "Does she play with a book?"],
+    "answer": "Does she read a book?"
+  },
+  {
+    "question": "کیا ہم دوسروں کی مدد کرتے ہیں؟",
+    "options": ["Do we help others?", "We help others.", "Do we ignore others?", "Do we play with others?"],
+    "answer": "Do we help others?"
+  },
+  {
+    "question": "کیا میں ابھی کھانا کھا رہا ہوں؟",
+    "options": ["Am I eating now?", "I eat now.", "Do I eat now?", "I am eat now."],
+    "answer": "Am I eating now?"
+  },
+  {
+    "question": "کیا وہ کتاب پڑھ رہی ہے؟",
+    "options": ["Is she reading a book?", "She reads a book.", "Does she read a book?", "Is she read a book?"],
+    "answer": "Is she reading a book?"
+  },
+  {
+    "question": "کیا بچے کھیل رہے ہیں؟",
+    "options": ["Are the children playing?", "The children play.", "Do the children play?", "Are the children play?"],
+    "answer": "Are the children playing?"
+  },
+  {
+    "question": "کیا تم فلم دیکھ رہے ہو؟",
+    "options": ["Are you watching a movie?", "You watch a movie.", "Do you watch a movie?", "Are you watch a movie?"],
+    "answer": "Are you watching a movie?"
+  },
+  {
+    "question": "کیا وہ لوگ کھانا کھا رہے ہیں؟",
+    "options": ["Are they eating?", "They eat.", "Do they eat?", "Are they eat?"],
+    "answer": "Are they eating?"
+  },
+  {
+    "question": "کیا ہم سکول جا رہے ہیں؟",
+    "options": ["Are we going to school?", "We go to school.", "Do we go to school?", "Are we go to school?"],
+    "answer": "Are we going to school?"
+  },
+  {
+    "question": "کیا میں پانی پی رہا ہوں؟",
+    "options": ["Am I drinking water?", "I drink water.", "Do I drink water?", "I am drink water."],
+    "answer": "Am I drinking water?"
+  },
+  {
+    "question": "کیا وہ لڑکا دوڑ رہا ہے؟",
+    "options": ["Is the boy running?", "The boy runs.", "Does the boy run?", "Is the boy run?"],
+    "answer": "Is the boy running?"
+  },
+  {
+    "question": "کیا ہم موسیقی سن رہے ہیں؟",
+    "options": ["Are we listening to music?", "We listen to music.", "Do we listen to music?", "Are we listen music?"],
+    "answer": "Are we listening to music?"
+  },
+  {
+    "question": "کیا تم کھیل رہے ہو؟",
+    "options": ["Are you playing?", "You play.", "Do you play?", "Are you play?"],
+    "answer": "Are you playing?"
+  },
+  {
+    "question": "میں کرکٹ کھیل رہا ہوں۔",
+    "options": [
+      "I am playing cricket.",
+      "I play cricket.",
+      "I played cricket.",
+      "I will play cricket."
+    ],
+    "answer": "I am playing cricket."
+  },
+  {
+    "question": "وہ اسکول جا رہی ہے۔",
+    "options": [
+      "She goes to school.",
+      "She is going to school.",
+      "She went to school.",
+      "She will go to school."
+    ],
+    "answer": "She is going to school."
+  },
+  {
+    "question": "وہ کھانا کھا رہے ہیں۔",
+    "options": [
+      "They eat meal.",
+      "They are eating meal.",
+      "They ate meal.",
+      "They will eat meal."
+    ],
+    "answer": "They are eating meal."
+  },
+  {
+    "question": "وہ تیر رہا ہے۔",
+    "options": [
+      "He swims.",
+      "He is swimming.",
+      "He swam.",
+      "He will swim."
+    ],
+    "answer": "He is swimming."
+  },
+  {
+    "question": "ہم کتاب پڑھ رہے ہیں۔",
+    "options": [
+      "We are reading a book.",
+      "We read a book.",
+      "We have read a book.",
+      "We will read a book."
+    ],
+    "answer": "We are reading a book."
+  },
+  {
+    "question": "تم پانی پی رہے ہو۔",
+    "options": [
+      "You are drinking water.",
+      "You drink water.",
+      "You drank water.",
+      "You will drink water."
+    ],
+    "answer": "You are drinking water."
+  },
+  {
+    "question": "میں کام کر رہا ہوں۔",
+    "options": [
+      "I am working.",
+      "I work.",
+      "I worked.",
+      "I will work."
+    ],
+    "answer": "I am working."
+  },
+  {
+    "question": "وہ خط لکھ رہی ہے۔",
+    "options": [
+      "She writes a letter.",
+      "She is writing a letter.",
+      "She wrote a letter.",
+      "She will write a letter."
+    ],
+    "answer": "She is writing a letter."
+  },
+  {
+    "question": "ہم ورزش کر رہے ہیں۔",
+    "options": [
+      "We are exercising.",
+      "We exercise.",
+      "We exercised.",
+      "We will exercise."
+    ],
+    "answer": "We are exercising."
+  },
+  {
+    "question": "وہ میوزک سن رہا ہے۔",
+    "options": [
+      "He listens to music.",
+      "He is listening to music.",
+      "He listened to music.",
+      "He will listen to music."
+    ],
+    "answer": "He is listening to music."
+  },
+  {
+    "question": "میں کرکٹ نہیں کھیل رہا ہوں۔",
+    "options": [
+      "I am not playing cricket.",
+      "I do not play cricket.",
+      "I am playing cricket.",
+      "I will not play cricket."
+    ],
+    "answer": "I am not playing cricket."
+  },
+  {
+    "question": "وہ اسکول نہیں جا رہی ہے۔",
+    "options": [
+      "She is not going to school.",
+      "She does not go to school.",
+      "She is going to school.",
+      "She will not go to school."
+    ],
+    "answer": "She is not going to school."
+  },
+  {
+    "question": "وہ کھانا نہیں کھا رہے ہیں۔",
+    "options": [
+      "They are not eating meal.",
+      "They do not eat meal.",
+      "They are eating meal.",
+      "They will not eat meal."
+    ],
+    "answer": "They are not eating meal."
+  },
+  {
+    "question": "وہ تیر نہیں رہا ہے۔",
+    "options": [
+      "He is not swimming.",
+      "He does not swim.",
+      "He is swimming.",
+      "He will not swim."
+    ],
+    "answer": "He is not swimming."
+  },
+  {
+    "question": "ہم کتاب نہیں پڑھ رہے ہیں۔",
+    "options": [
+      "We are not reading a book.",
+      "We do not read a book.",
+      "We are reading a book.",
+      "We will not read a book."
+    ],
+    "answer": "We are not reading a book."
+  },
+  {
+    "question": "تم پانی نہیں پی رہے ہو۔",
+    "options": [
+      "You are not drinking water.",
+      "You do not drink water.",
+      "You are drinking water.",
+      "You will not drink water."
+    ],
+    "answer": "You are not drinking water."
+  },
+  {
+    "question": "میں کام نہیں کر رہا ہوں۔",
+    "options": [
+      "I am not working.",
+      "I do not work.",
+      "I am working.",
+      "I will not work."
+    ],
+    "answer": "I am not working."
+  },
+  {
+    "question": "وہ خط نہیں لکھ رہی ہے۔",
+    "options": [
+      "She is not writing a letter.",
+      "She does not write a letter.",
+      "She is writing a letter.",
+      "She will not write a letter."
+    ],
+    "answer": "She is not writing a letter."
+  },
+  {
+    "question": "ہم ورزش نہیں کر رہے ہیں۔",
+    "options": [
+      "We are not exercising.",
+      "We do not exercise.",
+      "We are exercising.",
+      "We will not exercise."
+    ],
+    "answer": "We are not exercising."
+  },
+  {
+    "question": "وہ میوزک نہیں سن رہا ہے۔",
+    "options": [
+      "He is not listening to music.",
+      "He does not listen to music.",
+      "He is listening to music.",
+      "He will not listen to music."
+    ],
+    "answer": "He is not listening to music."
+  },
+  {
+    "question": "میں نے کرکٹ کھیلا ہے۔",
+    "options": [
+      "I have played cricket.",
+      "I played cricket.",
+      "I am playing cricket.",
+      "I will play cricket."
+    ],
+    "answer": "I have played cricket."
+  },
+  {
+    "question": "اس نے اسکول جا چکی ہے۔",
+    "options": [
+      "She has gone to school.",
+      "She goes to school.",
+      "She is going to school.",
+      "She went to school."
+    ],
+    "answer": "She has gone to school."
+  },
+  {
+    "question": "انہوں نے کھانا کھایا ہے۔",
+    "options": [
+      "They have eaten meal.",
+      "They eat meal.",
+      "They are eating meal.",
+      "They ate meal."
+    ],
+    "answer": "They have eaten meal."
+  },
+  {
+    "question": "اس نے خط لکھا ہے۔",
+    "options": [
+      "He has written a letter.",
+      "He writes a letter.",
+      "He is writing a letter.",
+      "He wrote a letter."
+    ],
+    "answer": "He has written a letter."
+  },
+  {
+    "question": "ہم نے کتاب پڑھی ہے۔",
+    "options": [
+      "We have read a book.",
+      "We read a book.",
+      "We are reading a book.",
+      "We will read a book."
+    ],
+    "answer": "We have read a book."
+  },
+  {
+    "question": "تم نے پانی پیا ہے۔",
+    "options": [
+      "You have drunk water.",
+      "You drink water.",
+      "You are drinking water.",
+      "You drank water."
+    ],
+    "answer": "You have drunk water."
+  },
+  {
+    "question": "میں نے کام کیا ہے۔",
+    "options": [
+      "I have worked.",
+      "I work.",
+      "I am working.",
+      "I worked."
+    ],
+    "answer": "I have worked."
+  },
+  {
+    "question": "اس نے امتحان پاس کیا ہے۔",
+    "options": [
+      "He has passed the exam.",
+      "He passes the exam.",
+      "He is passing the exam.",
+      "He passed the exam."
+    ],
+    "answer": "He has passed the exam."
+  },
+  {
+    "question": "ہم نے ورزش کی ہے۔",
+    "options": [
+      "We have exercised.",
+      "We exercise.",
+      "We are exercising.",
+      "We exercised."
+    ],
+    "answer": "We have exercised."
+  },
+  {
+    "question": "انہوں نے میوزک سنا ہے۔",
+    "options": [
+      "They have listened to music.",
+      "They listen to music.",
+      "They are listening to music.",
+      "They listened to music."
+    ],
+    "answer": "They have listened to music."
+  },
+  {
+    "question": "میں نے کرکٹ نہیں کھیلا ہے۔",
+    "options": [
+      "I have not played cricket.",
+      "I did not play cricket.",
+      "I am not playing cricket.",
+      "I will not play cricket."
+    ],
+    "answer": "I have not played cricket."
+  },
+  {
+    "question": "اس نے اسکول نہیں گیا ہے۔",
+    "options": [
+      "She has not gone to school.",
+      "She does not go to school.",
+      "She is not going to school.",
+      "She did not go to school."
+    ],
+    "answer": "She has not gone to school."
+  },
+  {
+    "question": "انہوں نے کھانا نہیں کھایا ہے۔",
+    "options": [
+      "They have not eaten meal.",
+      "They do not eat meal.",
+      "They are not eating meal.",
+      "They did not eat meal."
+    ],
+    "answer": "They have not eaten meal."
+  },
+  {
+    "question": "اس نے خط نہیں لکھا ہے۔",
+    "options": [
+      "He has not written a letter.",
+      "He does not write a letter.",
+      "He is not writing a letter.",
+      "He did not write a letter."
+    ],
+    "answer": "He has not written a letter."
+  },
+  {
+    "question": "ہم نے کتاب نہیں پڑھی ہے۔",
+    "options": [
+      "We have not read a book.",
+      "We do not read a book.",
+      "We are not reading a book.",
+      "We did not read a book."
+    ],
+    "answer": "We have not read a book."
+  },
+  {
+    "question": "تم نے پانی نہیں پیا ہے۔",
+    "options": [
+      "You have not drunk water.",
+      "You do not drink water.",
+      "You are not drinking water.",
+      "You did not drink water."
+    ],
+    "answer": "You have not drunk water."
+  },
+  {
+    "question": "میں نے کام نہیں کیا ہے۔",
+    "options": [
+      "I have not worked.",
+      "I do not work.",
+      "I am not working.",
+      "I did not work."
+    ],
+    "answer": "I have not worked."
+  },
+  {
+    "question": "اس نے امتحان پاس نہیں کیا ہے۔",
+    "options": [
+      "He has not passed the exam.",
+      "He does not pass the exam.",
+      "He is not passing the exam.",
+      "He did not pass the exam."
+    ],
+    "answer": "He has not passed the exam."
+  },
+  {
+    "question": "ہم نے ورزش نہیں کی ہے۔",
+    "options": [
+      "We have not exercised.",
+      "We do not exercise.",
+      "We are not exercising.",
+      "We did not exercise."
+    ],
+    "answer": "We have not exercised."
+  },
+  {
+    "question": "انہوں نے میوزک نہیں سنا ہے۔",
+    "options": [
+      "They have not listened to music.",
+      "They do not listen to music.",
+      "They are not listening to music.",
+      "They did not listen to music."
+    ],
+    "answer": "They have not listened to music."
+  },
+  {
+    "question": "کیا میں نے کرکٹ کھیلا ہے؟",
+    "options": [
+      "Have I played cricket?",
+      "Do I play cricket?",
+      "Am I playing cricket?",
+      "Did I play cricket?"
+    ],
+    "answer": "Have I played cricket?"
+  },
+  {
+    "question": "کیا اس نے اسکول گیا ہے؟",
+    "options": [
+      "Has she gone to school?",
+      "Does she go to school?",
+      "Is she going to school?",
+      "Did she go to school?"
+    ],
+    "answer": "Has she gone to school?"
+  },
+  {
+    "question": "کیا انہوں نے کھانا کھایا ہے؟",
+    "options": [
+      "Have they eaten meal?",
+      "Do they eat meal?",
+      "Are they eating meal?",
+      "Did they eat meal?"
+    ],
+    "answer": "Have they eaten meal?"
+  },
+  {
+    "question": "کیا اس نے خط لکھا ہے؟",
+    "options": [
+      "Has he written a letter?",
+      "Does he write a letter?",
+      "Is he writing a letter?",
+      "Did he write a letter?"
+    ],
+    "answer": "Has he written a letter?"
+  },
+  {
+    "question": "کیا ہم نے کتاب پڑھی ہے؟",
+    "options": [
+      "Have we read a book?",
+      "Do we read a book?",
+      "Are we reading a book?",
+      "Did we read a book?"
+    ],
+    "answer": "Have we read a book?"
+  },
+  {
+    "question": "کیا تم نے پانی پیا ہے؟",
+    "options": [
+      "Have you drunk water?",
+      "Do you drink water?",
+      "Are you drinking water?",
+      "Did you drink water?"
+    ],
+    "answer": "Have you drunk water?"
+  },
+  {
+    "question": "کیا میں نے کام کیا ہے؟",
+    "options": [
+      "Have I worked?",
+      "Do I work?",
+      "Am I working?",
+      "Did I work?"
+    ],
+    "answer": "Have I worked?"
+  },
+  {
+    "question": "کیا اس نے امتحان پاس کیا ہے؟",
+    "options": [
+      "Has he passed the exam?",
+      "Does he pass the exam?",
+      "Is he passing the exam?",
+      "Did he pass the exam?"
+    ],
+    "answer": "Has he passed the exam?"
+  },
+  {
+    "question": "کیا ہم نے ورزش کی ہے؟",
+    "options": [
+      "Have we exercised?",
+      "Do we exercise?",
+      "Are we exercising?",
+      "Did we exercise?"
+    ],
+    "answer": "Have we exercised?"
+  },
+  {
+    "question": "کیا انہوں نے میوزک سنا ہے؟",
+    "options": [
+      "Have they listened to music?",
+      "Do they listen to music?",
+      "Are they listening to music?",
+      "Did they listen to music?"
+    ],
+    "answer": "Have they listened to music?"
+  },
+  {
+    "question": "میں دو گھنٹے سے کرکٹ کھیل رہا ہوں۔",
+    "options": [
+      "I have been playing cricket for two hours.",
+      "I play cricket for two hours.",
+      "I am playing cricket for two hours.",
+      "I played cricket for two hours."
+    ],
+    "answer": "I have been playing cricket for two hours."
+  },
+  {
+    "question": "وہ صبح سے اسکول جا رہا ہے۔",
+    "options": [
+      "He has been going to school since morning.",
+      "He goes to school since morning.",
+      "He is going to school since morning.",
+      "He went to school since morning."
+    ],
+    "answer": "He has been going to school since morning."
+  },
+  {
+    "question": "وہ کھانے کے لیے انتظار کر رہا ہے۔",
+    "options": [
+      "He has been waiting for food.",
+      "He waits for food.",
+      "He is waiting for food.",
+      "He waited for food."
+    ],
+    "answer": "He has been waiting for food."
+  },
+  {
+    "question": "ہم پچھلے ایک گھنٹے سے کتاب پڑھ رہے ہیں۔",
+    "options": [
+      "We have been reading a book for the last one hour.",
+      "We read a book for the last one hour.",
+      "We are reading a book for the last one hour.",
+      "We were reading a book for the last one hour."
+    ],
+    "answer": "We have been reading a book for the last one hour."
+  },
+  {
+    "question": "تم پچھلے پندرہ منٹ سے پانی پی رہے ہو۔",
+    "options": [
+      "You have been drinking water for the last fifteen minutes.",
+      "You drink water for the last fifteen minutes.",
+      "You are drinking water for the last fifteen minutes.",
+      "You drank water for the last fifteen minutes."
+    ],
+    "answer": "You have been drinking water for the last fifteen minutes."
+  },
+  {
+    "question": "میں صبح سے کام کر رہا ہوں۔",
+    "options": [
+      "I have been working since morning.",
+      "I work since morning.",
+      "I am working since morning.",
+      "I worked since morning."
+    ],
+    "answer": "I have been working since morning."
+  },
+  {
+    "question": "وہ پچھلے تین دن سے امتحان کی تیاری کر رہا ہے۔",
+    "options": [
+      "He has been preparing for the exam for the last three days.",
+      "He prepares for the exam for the last three days.",
+      "He is preparing for the exam for the last three days.",
+      "He prepared for the exam for the last three days."
+    ],
+    "answer": "He has been preparing for the exam for the last three days."
+  },
+  {
+    "question": "ہم پچھلے نصف گھنٹے سے ورزش کر رہے ہیں۔",
+    "options": [
+      "We have been exercising for the last half hour.",
+      "We exercise for the last half hour.",
+      "We are exercising for the last half hour.",
+      "We exercised for the last half hour."
+    ],
+    "answer": "We have been exercising for the last half hour."
+  },
+  {
+    "question": "وہ پچھلے ایک گھنٹے سے میوزک سن رہے ہیں۔",
+    "options": [
+      "They have been listening to music for the last hour.",
+      "They listen to music for the last hour.",
+      "They are listening to music for the last hour.",
+      "They listened to music for the last hour."
+    ],
+    "answer": "They have been listening to music for the last hour."
+  },
+  {
+    "question": "علی پچھلے دو گھنٹے سے کھیل رہا ہے۔",
+    "options": [
+      "Ali has been playing for the last two hours.",
+      "Ali plays for the last two hours.",
+      "Ali is playing for the last two hours.",
+      "Ali played for the last two hours."
+    ],
+    "answer": "Ali has been playing for the last two hours."
+  },
+  {
+    "question": "میں دو گھنٹے سے کرکٹ نہیں کھیل رہا ہوں۔",
+    "options": [
+      "I have not been playing cricket for two hours.",
+      "I do not play cricket for two hours.",
+      "I am not playing cricket for two hours.",
+      "I did not play cricket for two hours."
+    ],
+    "answer": "I have not been playing cricket for two hours."
+  },
+  {
+    "question": "وہ صبح سے اسکول نہیں جا رہا ہے۔",
+    "options": [
+      "He has not been going to school since morning.",
+      "He does not go to school since morning.",
+      "He is not going to school since morning.",
+      "He did not go to school since morning."
+    ],
+    "answer": "He has not been going to school since morning."
+  },
+  {
+    "question": "وہ کھانے کے لیے انتظار نہیں کر رہا ہے۔",
+    "options": [
+      "He has not been waiting for food.",
+      "He does not wait for food.",
+      "He is not waiting for food.",
+      "He did not wait for food."
+    ],
+    "answer": "He has not been waiting for food."
+  },
+  {
+    "question": "ہم پچھلے ایک گھنٹے سے کتاب نہیں پڑھ رہے ہیں۔",
+    "options": [
+      "We have not been reading a book for the last one hour.",
+      "We do not read a book for the last one hour.",
+      "We are not reading a book for the last one hour.",
+      "We did not read a book for the last one hour."
+    ],
+    "answer": "We have not been reading a book for the last one hour."
+  },
+  {
+    "question": "تم پچھلے پندرہ منٹ سے پانی نہیں پی رہے ہو۔",
+    "options": [
+      "You have not been drinking water for the last fifteen minutes.",
+      "You do not drink water for the last fifteen minutes.",
+      "You are not drinking water for the last fifteen minutes.",
+      "You did not drink water for the last fifteen minutes."
+    ],
+    "answer": "You have not been drinking water for the last fifteen minutes."
+  },
+  {
+    "question": "میں صبح سے کام نہیں کر رہا ہوں۔",
+    "options": [
+      "I have not been working since morning.",
+      "I do not work since morning.",
+      "I am not working since morning.",
+      "I did not work since morning."
+    ],
+    "answer": "I have not been working since morning."
+  },
+  {
+    "question": "وہ پچھلے تین دن سے امتحان کی تیاری نہیں کر رہا ہے۔",
+    "options": [
+      "He has not been preparing for the exam for the last three days.",
+      "He does not prepare for the exam for the last three days.",
+      "He is not preparing for the exam for the last three days.",
+      "He did not prepare for the exam for the last three days."
+    ],
+    "answer": "He has not been preparing for the exam for the last three days."
+  },
+  {
+    "question": "ہم پچھلے نصف گھنٹے سے ورزش نہیں کر رہے ہیں۔",
+    "options": [
+      "We have not been exercising for the last half hour.",
+      "We do not exercise for the last half hour.",
+      "We are not exercising for the last half hour.",
+      "We did not exercise for the last half hour."
+    ],
+    "answer": "We have not been exercising for the last half hour."
+  },
+  {
+    "question": "وہ پچھلے ایک گھنٹے سے میوزک نہیں سن رہے ہیں۔",
+    "options": [
+      "They have not been listening to music for the last hour.",
+      "They do not listen to music for the last hour.",
+      "They are not listening to music for the last hour.",
+      "They did not listen to music for the last hour."
+    ],
+    "answer": "They have not been listening to music for the last hour."
+  },
+  {
+    "question": "علی پچھلے دو گھنٹے سے کھیل نہیں رہا ہے۔",
+    "options": [
+      "Ali has not been playing for the last two hours.",
+      "Ali does not play for the last two hours.",
+      "Ali is not playing for the last two hours.",
+      "Ali did not play for the last two hours."
+    ],
+    "answer": "Ali has not been playing for the last two hours."
+  },
+  {
+    "question": "کیا میں دو گھنٹے سے کرکٹ کھیل رہا ہوں؟",
+    "options": [
+      "Have I been playing cricket for two hours?",
+      "Do I play cricket for two hours?",
+      "Am I playing cricket for two hours?",
+      "Did I play cricket for two hours?"
+    ],
+    "answer": "Have I been playing cricket for two hours?"
+  },
+  {
+    "question": "کیا وہ صبح سے اسکول جا رہا ہے؟",
+    "options": [
+      "Has he been going to school since morning?",
+      "Does he go to school since morning?",
+      "Is he going to school since morning?",
+      "Did he go to school since morning?"
+    ],
+    "answer": "Has he been going to school since morning?"
+  },
+  {
+    "question": "کیا وہ کھانے کے لیے انتظار کر رہا ہے؟",
+    "options": [
+      "Has he been waiting for food?",
+      "Does he wait for food?",
+      "Is he waiting for food?",
+      "Did he wait for food?"
+    ],
+    "answer": "Has he been waiting for food?"
+  },
+  {
+    "question": "کیا ہم پچھلے ایک گھنٹے سے کتاب پڑھ رہے ہیں؟",
+    "options": [
+      "Have we been reading a book for the last one hour?",
+      "Do we read a book for the last one hour?",
+      "Are we reading a book for the last one hour?",
+      "Did we read a book for the last one hour?"
+    ],
+    "answer": "Have we been reading a book for the last one hour?"
+  },
+  {
+    "question": "کیا تم پچھلے پندرہ منٹ سے پانی پی رہے ہو؟",
+    "options": [
+      "Have you been drinking water for the last fifteen minutes?",
+      "Do you drink water for the last fifteen minutes?",
+      "Are you drinking water for the last fifteen minutes?",
+      "Did you drink water for the last fifteen minutes?"
+    ],
+    "answer": "Have you been drinking water for the last fifteen minutes?"
+  },
+  {
+    "question": "کیا میں صبح سے کام کر رہا ہوں؟",
+    "options": [
+      "Have I been working since morning?",
+      "Do I work since morning?",
+      "Am I working since morning?",
+      "Did I work since morning?"
+    ],
+    "answer": "Have I been working since morning?"
+  },
+  {
+    "question": "کیا وہ پچھلے تین دن سے امتحان کی تیاری کر رہا ہے؟",
+    "options": [
+      "Has he been preparing for the exam for the last three days?",
+      "Does he prepare for the exam for the last three days?",
+      "Is he preparing for the exam for the last three days?",
+      "Did he prepare for the exam for the last three days?"
+    ],
+    "answer": "Has he been preparing for the exam for the last three days?"
+  },
+  {
+    "question": "کیا ہم پچھلے نصف گھنٹے سے ورزش کر رہے ہیں؟",
+    "options": [
+      "Have we been exercising for the last half hour?",
+      "Do we exercise for the last half hour?",
+      "Are we exercising for the last half hour?",
+      "Did we exercise for the last half hour?"
+    ],
+    "answer": "Have we been exercising for the last half hour?"
+  },
+  {
+    "question": "کیا وہ پچھلے ایک گھنٹے سے میوزک سن رہے ہیں؟",
+    "options": [
+      "Have they been listening to music for the last hour?",
+      "Do they listen to music for the last hour?",
+      "Are they listening to music for the last hour?",
+      "Did they listen to music for the last hour?"
+    ],
+    "answer": "Have they been listening to music for the last hour?"
+  },
+  {
+    "question": "کیا علی پچھلے دو گھنٹے سے کھیل رہا ہے؟",
+    "options": [
+      "Has Ali been playing for the last two hours?",
+      "Does Ali play for the last two hours?",
+      "Is Ali playing for the last two hours?",
+      "Did Ali play for the last two hours?"
+    ],
+    "answer": "Has Ali been playing for the last two hours?"
+  }
+]

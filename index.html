@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LearnSphere | English Learning Modules & Quiz</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+
+<header class="hero">
+  <div class="container hero-content">
+    <h1>LearnSphere</h1>
+    <p class="tagline">English Tenses, Modals & Grammar Learning</p>
+  </div>
+</header>
+
+<section id="features" class="container">
+  <h2 class="section-title">Modules</h2>
+  <div class="features-grid">
+
+    <!-- Tenses -->
+    <div class="feature-card" data-feature="present">
+      <i data-feather="clock" class="feature-icon"></i>
+      <h3>Present Tenses</h3>
+      <p>Simple, Continuous, Perfect, Perfect Continuous</p>
+    </div>
+
+    <div class="feature-card" data-feature="past">
+      <i data-feather="clock" class="feature-icon"></i>
+      <h3>Past Tenses</h3>
+      <p>Simple, Continuous, Perfect, Perfect Continuous</p>
+    </div>
+
+    <div class="feature-card" data-feature="future">
+      <i data-feather="clock" class="feature-icon"></i>
+      <h3>Future Tenses</h3>
+      <p>Simple, Continuous, Perfect, Perfect Continuous</p>
+    </div>
+
+    <!-- Modals -->
+    <div class="feature-card" data-feature="modals">
+      <i data-feather="clock" class="feature-icon"></i>
+      <h3>Should / Would / Could</h3>
+      <p>Advice, Polite, Ability</p>
+    </div>
+
+    <div class="feature-card" data-feature="maymightcan">
+      <i data-feather="clock" class="feature-icon"></i>
+      <h3>May / Might / Can</h3>
+      <p>Possibility, Ability, Permission</p>
+    </div>
+
+    <!-- Non-Quizzable Modules -->
+    <div class="feature-card" data-feature="nonfinites">
+      <i data-feather="book" class="feature-icon"></i>
+      <h3>Non-Finites</h3>
+      <p>Infinitives, Gerunds, Participles</p>
+    </div>
+
+    <div class="feature-card" data-feature="pos">
+      <i data-feather="book-open" class="feature-icon"></i>
+      <h3>Parts of Speech</h3>
+      <p>Nouns, Pronouns, Verbs, Adjectives...</p>
+    </div>
+
+    <div class="feature-card" data-feature="clauses">
+      <i data-feather="git-branch" class="feature-icon"></i>
+      <h3>Clauses</h3>
+      <p>Independent, Dependent, Relative</p>
+    </div>
+
+    <div class="feature-card" data-feature="sentences">
+      <i data-feather="layers" class="feature-icon"></i>
+      <h3>Sentence Structures</h3>
+      <p>Simple, Compound, Complex, Compound-Complex</p>
+    </div>
+
+    <!-- Dictionary -->
+    <div class="feature-card" data-feature="dictionary">
+      <i data-feather="book-open" class="feature-icon"></i>
+      <h3>Dictionary</h3>
+      <p>English words with Urdu meanings</p>
+    </div>
+
+    <!-- Important Spelling -->
+    <div class="feature-card" data-feature="spelling">
+      <i data-feather="type" class="feature-icon"></i>
+      <h3>Important Spelling</h3>
+      <p>Commonly misspelled words for exams</p>
+    </div>
+
+  </div>
+</section>
+<!-- Active / Passive Voice -->
+<div class="feature-card" data-feature="activepassive">
+  <i data-feather="repeat" class="feature-icon"></i>
+  <h3>Active / Passive Voice</h3>
+  <p>Transform sentences between Active & Passive</p>
+</div>
+
+
+<!-- Modal for modules -->
+<div id="featureModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h3 id="modalTitle"></h3>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<!-- Quiz Section -->
+<section id="quiz" class="container">
+  <h2 class="section-title">Module Quiz</h2>
+  <div>
+    <label for="tenseSelect">Choose Module:</label>
+    <select id="tenseSelect">
+      <option value="present">Present Tenses</option>
+      <option value="past">Past Tenses</option>
+      <option value="future">Future Tenses</option>
+      <option value="modals">Should / Would / Could</option>
+      <option value="maymightcan">May / Might / Can</option>
+    </select>
+    <button id="startQuizBtn">Start Quiz</button>
+  </div>
+
+  <div id="quizContainer" style="display:none;">
+    <p id="timerArea"></p>
+    <div id="questionArea"></div>
+    <div id="optionsArea"></div>
+    <p id="wrongCorrectArea"></p>
+    <button id="nextBtn" style="display:none;">Next</button>
+    <button id="submitBtn" style="display:none;">Submit</button>
+    <p id="scoreArea"></p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 LearnSphere • Educational project</p>
+</footer>
+
+<script src="script.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", () => feather.replace());
+</script>
+</body>
+</html>

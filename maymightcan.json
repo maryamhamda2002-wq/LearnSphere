@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "___ I borrow your pen?",
+      "options": ["May", "Might", "Can"],
+      "answer": "Can"
+    },
+    {
+      "question": "It ___ rain tomorrow.",
+      "options": ["May", "Might", "Can"],
+      "answer": "Might"
+    },
+    {
+      "question": "You ___ eat vegetables for better health.",
+      "options": ["May", "Might", "Can"],
+      "answer": "Should"
+    },
+    {
+      "question": "She ___ speak three languages fluently.",
+      "options": ["May", "Might", "Can"],
+      "answer": "Can"
+    },
+    {
+      "question": "I ___ go to the party tonight if I finish my work.",
+      "options": ["May", "Might", "Can"],
+      "answer": "May"
+    }
+  ]
+}

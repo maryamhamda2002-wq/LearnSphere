@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "تم یہ کام کر سکتے ہو؟",
+      "options": ["Can you do this task?", "You can do this task.", "Could you do this task?"],
+      "answer": "Can you do this task?",
+      "tense": "Can"
+    },
+    {
+      "question": "کیا آپ میری مدد کریں گے؟",
+      "options": ["Would you help me?", "Can you help me?", "Could you help me?"],
+      "answer": "Would you help me?",
+      "tense": "Would"
+    },
+    {
+      "question": "کیا آپ نمک دے سکتے ہیں؟",
+      "options": ["Can you pass me the salt?", "Could you pass me the salt?", "Would you pass me the salt?"],
+      "answer": "Could you pass me the salt?",
+      "tense": "Could"
+    }
+  ]
+}

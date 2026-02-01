@@ -1,0 +1,725 @@
+[
+  {
+    "question": "I ___ cricket tomorrow.",
+    "options": ["play", "played", "will play"],
+    "answer": "will play",
+    "urdu": "میں کل کرکٹ کھیلوں گا۔",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "She ___ TV tonight.",
+    "options": ["watches", "watched", "will watch"],
+    "answer": "will watch",
+    "urdu": "وہ آج رات ٹی وی دیکھے گی۔",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "They ___ football next week.",
+    "options": ["play", "will play", "played"],
+    "answer": "will play",
+    "urdu": "وہ اگلے ہفتے فٹبال کھیلیں گے۔",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "میں کل اسکول جاؤں گا۔",
+    "options": ["I will go to school tomorrow.", "I go to school tomorrow.", "I am going to school tomorrow."],
+    "answer": "I will go to school tomorrow.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ اگلے ہفتے سفر کرے گی۔",
+    "options": ["She will travel next week.", "She travels next week.", "She is traveling next week."],
+    "answer": "She will travel next week.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "ہم دوپہر کے کھانے کے بعد کھیلیں گے۔",
+    "options": ["We will play after lunch.", "We play after lunch.", "We are playing after lunch."],
+    "answer": "We will play after lunch.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ شام 5 بجے کام کر رہا ہوگا۔",
+    "options": ["He will be working at 5 PM.", "He works at 5 PM.", "He is working at 5 PM."],
+    "answer": "He will be working at 5 PM.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں دو گھنٹے سے پڑھ رہا ہوں گا جب تم آؤ گے۔",
+    "options": ["I will have been studying for two hours when you come.", "I study for two hours when you come.", "I will study for two hours when you come."],
+    "answer": "I will have been studying for two hours when you come.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ شام تک کام مکمل کر چکی ہوگی۔",
+    "options": ["She will have finished work by evening.", "She finishes work by evening.", "She is finishing work by evening."],
+    "answer": "She will have finished work by evening.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں کل کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will be reading a book tomorrow.", "I read a book tomorrow.", "I am reading a book tomorrow."],
+    "answer": "I will be reading a book tomorrow.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے مہینے نیا گھر خریدیں گے۔",
+    "options": ["We will buy a new house next month.", "We buy a new house next month.", "We are buying a new house next month."],
+    "answer": "We will buy a new house next month.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ اگلے سال ہسپتال جائیں گے۔",
+    "options": ["They will go to the hospital next year.", "They go to the hospital next year.", "They are going to the hospital next year."],
+    "answer": "They will go to the hospital next year.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "میں کل شام 6 بجے کھانا کھا رہا ہوں گا۔",
+    "options": ["I will be eating dinner at 6 PM tomorrow.", "I eat dinner at 6 PM tomorrow.", "I am eating dinner at 6 PM tomorrow."],
+    "answer": "I will be eating dinner at 6 PM tomorrow.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ کل اپنی رپورٹ مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed her report tomorrow.", "She completes her report tomorrow.", "She is completing her report tomorrow."],
+    "answer": "She will have completed her report tomorrow.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم دوپہر تک کام کر رہے ہوں گے۔",
+    "options": ["We will have been working by noon.", "We work by noon.", "We are working by noon."],
+    "answer": "We will have been working by noon.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلی رات فلم دیکھ رہا ہوں گا۔",
+    "options": ["I will be watching a movie next night.", "I watch a movie next night.", "I am watching a movie next night."],
+    "answer": "I will be watching a movie next night.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے امتحان پاس کر چکی ہوگی۔",
+    "options": ["She will have passed the exam next month.", "She passes the exam next month.", "She is passing the exam next month."],
+    "answer": "She will have passed the exam next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے ہفتے کرکٹ کھیل رہے ہوں گے۔",
+    "options": ["We will be playing cricket next week.", "We play cricket next week.", "We are playing cricket next week."],
+    "answer": "We will be playing cricket next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں کل دو گھنٹے سے پڑھ رہا ہوں گا۔",
+    "options": ["I will have been studying for two hours tomorrow.", "I study for two hours tomorrow.", "I am studying for two hours tomorrow."],
+    "answer": "I will have been studying for two hours tomorrow.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلی رات کتاب پڑھ رہی ہوگی۔",
+    "options": ["She will be reading a book next night.", "She reads a book next night.", "She is reading a book next night."],
+    "answer": "She will be reading a book next night.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے مہینے نئے پروجیکٹ پر کام کر چکے ہوں گے۔",
+    "options": ["We will have worked on the new project next month.", "We work on the new project next month.", "We are working on the new project next month."],
+    "answer": "We will have worked on the new project next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں اگلے ہفتے دو گھنٹے سے پڑھ رہا ہوں گا۔",
+    "options": ["I will have been studying for two hours next week.", "I study for two hours next week.", "I am studying for two hours next week."],
+    "answer": "I will have been studying for two hours next week.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلی رات کھانا کھا رہی ہوگی۔",
+    "options": ["She will be eating dinner next night.", "She eats dinner next night.", "She is eating dinner next night."],
+    "answer": "She will be eating dinner next night.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے دوستوں سے ملاقات کروں گا۔",
+    "options": ["I will meet my friends next week.", "I meet my friends next week.", "I am meeting my friends next week."],
+    "answer": "I will meet my friends next week.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ اگلے ماہ نئی گاڑی خریدے گی۔",
+    "options": ["She will buy a new car next month.", "She buys a new car next month.", "She is buying a new car next month."],
+    "answer": "She will buy a new car next month.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "ہم کل شام 6 بجے کھانا کھا رہے ہوں گے۔",
+    "options": ["We will be having dinner at 6 PM tomorrow.", "We have dinner at 6 PM tomorrow.", "We are having dinner at 6 PM tomorrow."],
+    "answer": "We will be having dinner at 6 PM tomorrow.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے دو گھنٹے سے پڑھ رہا ہوں گا۔",
+    "options": ["I will have been studying for the next two hours.", "I study for the next two hours.", "I am studying for the next two hours."],
+    "answer": "I will have been studying for the next two hours.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے امتحان مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed the exam next week.", "She completes the exam next week.", "She is completing the exam next week."],
+    "answer": "She will have completed the exam next week.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے مہینے پروجیکٹ پر کام کر رہے ہوں گے۔",
+    "options": ["We will be working on the project next month.", "We work on the project next month.", "We are working on the project next month."],
+    "answer": "We will be working on the project next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں کل فلم دیکھ رہا ہوں گا۔",
+    "options": ["I will be watching a movie tomorrow.", "I watch a movie tomorrow.", "I am watching a movie tomorrow."],
+    "answer": "I will be watching a movie tomorrow.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلی صبح 8 بجے جا چکی ہوگی۔",
+    "options": ["She will have left by 8 AM tomorrow.", "She leaves by 8 AM tomorrow.", "She is leaving by 8 AM tomorrow."],
+    "answer": "She will have left by 8 AM tomorrow.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے ہفتے دو گھنٹے سے کھیل رہے ہوں گے۔",
+    "options": ["We will have been playing for two hours next week.", "We play for two hours next week.", "We are playing for two hours next week."],
+    "answer": "We will have been playing for two hours next week.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے مہینے نئے کورس میں شامل ہو رہا ہوں گا۔",
+    "options": ["I will be joining a new course next month.", "I join a new course next month.", "I am joining a new course next month."],
+    "answer": "I will be joining a new course next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے ٹی وی دیکھ رہی ہوگی۔",
+    "options": ["She will be watching TV next week.", "She watches TV next week.", "She is watching TV next week."],
+    "answer": "She will be watching TV next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلی رات دو گھنٹے سے کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will have been reading a book for two hours next night.", "I read a book for two hours next night.", "I am reading a book for two hours next night."],
+    "answer": "I will have been reading a book for two hours next night.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "ہم اگلے مہینے نیا ہاؤس خرید چکے ہوں گے۔",
+    "options": ["We will have bought a new house next month.", "We buy a new house next month.", "We are buying a new house next month."],
+    "answer": "We will have bought a new house next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ اگلے ہفتے دفتر جا رہی ہوگی۔",
+    "options": ["She will be going to the office next week.", "She goes to the office next week.", "She is going to the office next week."],
+    "answer": "She will be going to the office next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے گانے سن رہا ہوں گا۔",
+    "options": ["I will be listening to songs next week.", "I listen to songs next week.", "I am listening to songs next week."],
+    "answer": "I will be listening to songs next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے اپنی رپورٹ مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed her report next month.", "She completes her report next month.", "She is completing her report next month."],
+    "answer": "She will have completed her report next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے ہفتے کرکٹ کھیل رہے ہوں گے۔",
+    "options": ["We will be playing cricket next week.", "We play cricket next week.", "We are playing cricket next week."],
+    "answer": "We will be playing cricket next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلی صبح کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will be reading a book next morning.", "I read a book next morning.", "I am reading a book next morning."],
+    "answer": "I will be reading a book next morning.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے دو گھنٹے سے کام کر رہی ہوگی۔",
+    "options": ["She will have been working for two hours next week.", "She works for two hours next week.", "She is working for two hours next week."],
+    "answer": "She will have been working for two hours next week.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلی رات کھانا کھا رہا ہوں گا۔",
+    "options": ["I will be eating dinner next night.", "I eat dinner next night.", "I am eating dinner next night."],
+    "answer": "I will be eating dinner next night.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے مارکیٹ جاؤں گا۔",
+    "options": ["I will go to the market next week.", "I go to the market next week.", "I am going to the market next week."],
+    "answer": "I will go to the market next week.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ اگلے مہینے امتحان دے گی۔",
+    "options": ["She will take the exam next month.", "She takes the exam next month.", "She is taking the exam next month."],
+    "answer": "She will take the exam next month.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "ہم اگلے ہفتے فلم دیکھ رہے ہوں گے۔",
+    "options": ["We will be watching a movie next week.", "We watch a movie next week.", "We are watching a movie next week."],
+    "answer": "We will be watching a movie next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے دو گھنٹے سے لکھ رہا ہوں گا۔",
+    "options": ["I will have been writing for the next two hours.", "I write for the next two hours.", "I am writing for the next two hours."],
+    "answer": "I will have been writing for the next two hours.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے کتاب ختم کر چکی ہوگی۔",
+    "options": ["She will have finished the book next week.", "She finishes the book next week.", "She is finishing the book next week."],
+    "answer": "She will have finished the book next week.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے مہینے پروجیکٹ مکمل کر رہے ہوں گے۔",
+    "options": ["We will be completing the project next month.", "We complete the project next month.", "We are completing the project next month."],
+    "answer": "We will be completing the project next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلی صبح کھیل رہا ہوں گا۔",
+    "options": ["I will be playing next morning.", "I play next morning.", "I am playing next morning."],
+    "answer": "I will be playing next morning.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے دو گھنٹے سے کام کر رہی ہوگی۔",
+    "options": ["She will have been working for two hours next week.", "She works for two hours next week.", "She is working for two hours next week."],
+    "answer": "She will have been working for two hours next week.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے دوپہر کھانا کھا رہا ہوں گا۔",
+    "options": ["I will be eating lunch next week.", "I eat lunch next week.", "I am eating lunch next week."],
+    "answer": "I will be eating lunch next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے دفتر جا چکی ہوگی۔",
+    "options": ["She will have gone to the office next month.", "She goes to the office next month.", "She is going to the office next month."],
+    "answer": "She will have gone to the office next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے ہفتے دو گھنٹے سے کھیل رہے ہوں گے۔",
+    "options": ["We will have been playing for two hours next week.", "We play for two hours next week.", "We are playing for two hours next week."],
+    "answer": "We will have been playing for two hours next week.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلی رات کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will be reading a book next night.", "I read a book next night.", "I am reading a book next night."],
+    "answer": "I will be reading a book next night.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے ٹی وی دیکھ رہی ہوگی۔",
+    "options": ["She will be watching TV next week.", "She watches TV next week.", "She is watching TV next week."],
+    "answer": "She will be watching TV next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے دوستوں کے ساتھ کھیل رہا ہوں گا۔",
+    "options": ["I will be playing with friends next week.", "I play with friends next week.", "I am playing with friends next week."],
+    "answer": "I will be playing with friends next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے مہینے پارک میں جا چکے ہوں گے۔",
+    "options": ["We will have gone to the park next month.", "We go to the park next month.", "We are going to the park next month."],
+    "answer": "We will have gone to the park next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ اگلے ہفتے کتابیں پڑھ رہی ہوگی۔",
+    "options": ["She will be reading books next week.", "She reads books next week.", "She is reading books next week."],
+    "answer": "She will be reading books next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلی صبح ناشتہ کر رہا ہوں گا۔",
+    "options": ["I will be having breakfast next morning.", "I have breakfast next morning.", "I am having breakfast next morning."],
+    "answer": "I will be having breakfast next morning.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے ہفتے نیا کورس کر رہے ہوں گے۔",
+    "options": ["We will be taking a new course next week.", "We take a new course next week.", "We are taking a new course next week."],
+    "answer": "We will be taking a new course next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے اپنی رپورٹ مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed her report next month.", "She completes her report next month.", "She is completing her report next month."],
+    "answer": "She will have completed her report next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں اگلی رات کھیل رہا ہوں گا۔",
+    "options": ["I will be playing next night.", "I play next night.", "I am playing next night."],
+    "answer": "I will be playing next night.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں کل اسکول جاؤں گا۔",
+    "options": ["I will go to school tomorrow.", "I go to school tomorrow.", "I am going to school tomorrow."],
+    "answer": "I will go to school tomorrow.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ آج رات ٹی وی دیکھے گی۔",
+    "options": ["She will watch TV tonight.", "She watches TV tonight.", "She is watching TV tonight."],
+    "answer": "She will watch TV tonight.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "ہم اگلے ہفتے پارک میں کھیلیں گے۔",
+    "options": ["We will play in the park next week.", "We play in the park next week.", "We are playing in the park next week."],
+    "answer": "We will play in the park next week.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "میں دوپہر کو کھانا کھا رہا ہوں گا۔",
+    "options": ["I will be eating lunch in the afternoon.", "I eat lunch in the afternoon.", "I am eating lunch in the afternoon."],
+    "answer": "I will be eating lunch in the afternoon.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ شام 6 بجے کام کر رہی ہوگی۔",
+    "options": ["She will be working at 6 PM.", "She works at 6 PM.", "She is working at 6 PM."],
+    "answer": "She will be working at 6 PM.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں 8 بجے تک اپنا ہوم ورک مکمل کر چکا ہوں گا۔",
+    "options": ["I will have finished my homework by 8 PM.", "I finish my homework by 8 PM.", "I am finishing my homework by 8 PM."],
+    "answer": "I will have finished my homework by 8 PM.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ شام 7 بجے تک کھانا کھا چکی ہوگی۔",
+    "options": ["She will have eaten dinner by 7 PM.", "She eats dinner by 7 PM.", "She is eating dinner by 7 PM."],
+    "answer": "She will have eaten dinner by 7 PM.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم 2 گھنٹے سے کھیل رہے ہوں گے جب تم پہنچو گے۔",
+    "options": ["We will have been playing for 2 hours when you arrive.", "We play for 2 hours when you arrive.", "We are playing for 2 hours when you arrive."],
+    "answer": "We will have been playing for 2 hours when you arrive.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے ماہ نئی کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will be reading a new book next month.", "I read a new book next month.", "I am reading a new book next month."],
+    "answer": "I will be reading a new book next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے ایک نئی گاڑی خرید چکی ہوگی۔",
+    "options": ["She will have bought a new car next week.", "She buys a new car next week.", "She is buying a new car next week."],
+    "answer": "She will have bought a new car next week.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں صبح 7 بجے جاگ رہا ہوں گا۔",
+    "options": ["I will be waking up at 7 AM.", "I wake up at 7 AM.", "I am waking up at 7 AM."],
+    "answer": "I will be waking up at 7 AM.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے سال اپنا نیا گھر خرید چکے ہوں گے۔",
+    "options": ["We will have bought our new house next year.", "We buy our new house next year.", "We are buying our new house next year."],
+    "answer": "We will have bought our new house next year.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں دو گھنٹے سے پڑھ رہا ہوں گا جب تم پہنچو گے۔",
+    "options": ["I will have been studying for 2 hours when you arrive.", "I study for 2 hours when you arrive.", "I am studying for 2 hours when you arrive."],
+    "answer": "I will have been studying for 2 hours when you arrive.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے اپنی دوست سے مل رہی ہوگی۔",
+    "options": ["She will be meeting her friend next week.", "She meets her friend next week.", "She is meeting her friend next week."],
+    "answer": "She will be meeting her friend next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے مہینے انگلش کورس مکمل کر چکا ہوں گا۔",
+    "options": ["I will have completed the English course next month.", "I complete the English course next month.", "I am completing the English course next month."],
+    "answer": "I will have completed the English course next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم 3 گھنٹے سے کھیل رہے ہوں گے جب تم پہنچو گے۔",
+    "options": ["We will have been playing for 3 hours when you arrive.", "We play for 3 hours when you arrive.", "We are playing for 3 hours when you arrive."],
+    "answer": "We will have been playing for 3 hours when you arrive.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے نئی ملازمت کر رہی ہوگی۔",
+    "options": ["She will be working a new job next month.", "She works a new job next month.", "She is working a new job next month."],
+    "answer": "She will be working a new job next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے اپنی کلاس مکمل کر چکا ہوں گا۔",
+    "options": ["I will have finished my class next week.", "I finish my class next week.", "I am finishing my class next week."],
+    "answer": "I will have finished my class next week.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے دو گھنٹے سے کھیل رہے ہوں گے جب وہ پہنچے گا۔",
+    "options": ["We will have been playing for 2 hours when he arrives.", "We play for 2 hours when he arrives.", "We are playing for 2 hours when he arrives."],
+    "answer": "We will have been playing for 2 hours when he arrives.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے ماہ نیا کورس کر رہی ہوگی۔",
+    "options": ["She will be doing a new course next month.", "She does a new course next month.", "She is doing a new course next month."],
+    "answer": "She will be doing a new course next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے امتحان دوں گا۔",
+    "options": ["I will take the exam next week.", "I take the exam next week.", "I am taking the exam next week."],
+    "answer": "I will take the exam next week.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ کل دفتر جائیں گی۔",
+    "options": ["She will go to the office tomorrow.", "She goes to the office tomorrow.", "She is going to the office tomorrow."],
+    "answer": "She will go to the office tomorrow.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "ہم اگلے ماہ فلم دیکھیں گے۔",
+    "options": ["We will watch a movie next month.", "We watch a movie next month.", "We are watching a movie next month."],
+    "answer": "We will watch a movie next month.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "میں کل شام کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will be reading a book tomorrow evening.", "I read a book tomorrow evening.", "I am reading a book tomorrow evening."],
+    "answer": "I will be reading a book tomorrow evening.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے کلاس کر رہی ہوگی۔",
+    "options": ["She will be attending the class next week.", "She attends the class next week.", "She is attending the class next week."],
+    "answer": "She will be attending the class next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں شام 8 بجے تک کھانا کھا چکا ہوں گا۔",
+    "options": ["I will have eaten dinner by 8 PM.", "I eat dinner by 8 PM.", "I am eating dinner by 8 PM."],
+    "answer": "I will have eaten dinner by 8 PM.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ اگلے ماہ اپنا پروجیکٹ مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed her project next month.", "She completes her project next month.", "She is completing her project next month."],
+    "answer": "She will have completed her project next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم 1 گھنٹے سے کھیل رہے ہوں گے جب وہ پہنچیں گے۔",
+    "options": ["We will have been playing for 1 hour when they arrive.", "We play for 1 hour when they arrive.", "We are playing for 1 hour when they arrive."],
+    "answer": "We will have been playing for 1 hour when they arrive.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے نئی مووی دیکھ رہا ہوں گا۔",
+    "options": ["I will be watching a new movie next week.", "I watch a new movie next week.", "I am watching a new movie next week."],
+    "answer": "I will be watching a new movie next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے اپنی دوست سے مل چکی ہوگی۔",
+    "options": ["She will have met her friend next month.", "She meets her friend next month.", "She is meeting her friend next month."],
+    "answer": "She will have met her friend next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں اگلے ہفتے اپنی کلاس مکمل کر چکا ہوں گا۔",
+    "options": ["I will have finished my class next week.", "I finish my class next week.", "I am finishing my class next week."],
+    "answer": "I will have finished my class next week.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ کل دوپہر کتاب پڑھ رہی ہوگی۔",
+    "options": ["She will be reading a book tomorrow afternoon.", "She reads a book tomorrow afternoon.", "She is reading a book tomorrow afternoon."],
+    "answer": "She will be reading a book tomorrow afternoon.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے دو گھنٹے سے کام کر رہے ہوں گے جب باس آئیں گے۔",
+    "options": ["We will have been working for 2 hours when the boss arrives.", "We work for 2 hours when the boss arrives.", "We are working for 2 hours when the boss arrives."],
+    "answer": "We will have been working for 2 hours when the boss arrives.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے اپنی دوست سے مل رہا ہوں گا۔",
+    "options": ["I will be meeting my friend next week.", "I meet my friend next week.", "I am meeting my friend next week."],
+    "answer": "I will be meeting my friend next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے نیا کورس مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed the new course next month.", "She completes the new course next month.", "She is completing the new course next month."],
+    "answer": "She will have completed the new course next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں دو گھنٹے سے کھیل رہا ہوں گا جب وہ پہنچے گا۔",
+    "options": ["I will have been playing for 2 hours when he arrives.", "I play for 2 hours when he arrives.", "I am playing for 2 hours when he arrives."],
+    "answer": "I will have been playing for 2 hours when he arrives.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے دفتر جا رہی ہوگی۔",
+    "options": ["She will be going to the office next week.", "She goes to the office next week.", "She is going to the office next week."],
+    "answer": "She will be going to the office next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے مہینے نئی کتاب پڑھ چکا ہوں گا۔",
+    "options": ["I will have read the new book next month.", "I read the new book next month.", "I am reading the new book next month."],
+    "answer": "I will have read the new book next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے دو گھنٹے سے کھیل رہے ہوں گے جب وہ پہنچیں گے۔",
+    "options": ["We will have been playing for 2 hours when they arrive.", "We play for 2 hours when they arrive.", "We are playing for 2 hours when they arrive."],
+    "answer": "We will have been playing for 2 hours when they arrive.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے نیا کورس کر رہی ہوگی۔",
+    "options": ["She will be doing a new course next month.", "She does a new course next month.", "She is doing a new course next month."],
+    "answer": "She will be doing a new course next month.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے مارکیٹ جاؤں گا۔",
+    "options": ["I will go to the market next week.", "I go to the market next week.", "I am going to the market next week."],
+    "answer": "I will go to the market next week.",
+    "tense": "Simple Future"
+  },
+  {
+    "question": "وہ کل شام چائے پی رہی ہوگی۔",
+    "options": ["She will be drinking tea tomorrow evening.", "She drinks tea tomorrow evening.", "She is drinking tea tomorrow evening."],
+    "answer": "She will be drinking tea tomorrow evening.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے مہینے اپنی چھٹی مکمل کر چکے ہوں گے۔",
+    "options": ["We will have completed our vacation next month.", "We complete our vacation next month.", "We are completing our vacation next month."],
+    "answer": "We will have completed our vacation next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں اگلے تین گھنٹے سے کام کر رہا ہوں گا جب وہ پہنچے گا۔",
+    "options": ["I will have been working for 3 hours when he arrives.", "I work for 3 hours when he arrives.", "I am working for 3 hours when he arrives."],
+    "answer": "I will have been working for 3 hours when he arrives.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "وہ اگلے ہفتے کلاس میں پڑھ رہی ہوگی۔",
+    "options": ["She will be studying in the class next week.", "She studies in the class next week.", "She is studying in the class next week."],
+    "answer": "She will be studying in the class next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے اپنی رپورٹ مکمل کر چکا ہوں گا۔",
+    "options": ["I will have finished my report next week.", "I finish my report next week.", "I am finishing my report next week."],
+    "answer": "I will have finished my report next week.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے دو گھنٹے سے کھیل رہے ہوں گے جب وہ پہنچیں گے۔",
+    "options": ["We will have been playing for 2 hours when they arrive.", "We play for 2 hours when they arrive.", "We are playing for 2 hours when they arrive."],
+    "answer": "We will have been playing for 2 hours when they arrive.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے اپنے دوست سے ملاقات کر رہا ہوں گا۔",
+    "options": ["I will be meeting my friend next week.", "I meet my friend next week.", "I am meeting my friend next week."],
+    "answer": "I will be meeting my friend next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے اپنا نیا پروجیکٹ مکمل کر چکی ہوگی۔",
+    "options": ["She will have completed her new project next month.", "She completes her new project next month.", "She is completing her new project next month."],
+    "answer": "She will have completed her new project next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "میں کل دوپہر تک کھانا کھا چکا ہوں گا۔",
+    "options": ["I will have eaten lunch by tomorrow afternoon.", "I eat lunch by tomorrow afternoon.", "I am eating lunch by tomorrow afternoon."],
+    "answer": "I will have eaten lunch by tomorrow afternoon.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ اگلے ہفتے شام کو ٹی وی دیکھ رہی ہوگی۔",
+    "options": ["She will be watching TV next week in the evening.", "She watches TV next week in the evening.", "She is watching TV next week in the evening."],
+    "answer": "She will be watching TV next week in the evening.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے اپنی کتاب پڑھ رہا ہوں گا۔",
+    "options": ["I will be reading my book next week.", "I read my book next week.", "I am reading my book next week."],
+    "answer": "I will be reading my book next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "ہم اگلے مہینے اپنی کلاس مکمل کر چکے ہوں گے۔",
+    "options": ["We will have completed our class next month.", "We complete our class next month.", "We are completing our class next month."],
+    "answer": "We will have completed our class next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "وہ اگلے دو گھنٹے سے کتاب پڑھ رہی ہوگی۔",
+    "options": ["She will have been reading a book for 2 hours.", "She reads a book for 2 hours.", "She is reading a book for 2 hours."],
+    "answer": "She will have been reading a book for 2 hours.",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "question": "میں اگلے ہفتے اسکول جا رہا ہوں گا۔",
+    "options": ["I will be going to school next week.", "I go to school next week.", "I am going to school next week."],
+    "answer": "I will be going to school next week.",
+    "tense": "Future Continuous"
+  },
+  {
+    "question": "وہ اگلے مہینے نئی فلم دیکھ چکی ہوگی۔",
+    "options": ["She will have watched a new movie next month.", "She watches a new movie next month.", "She is watching a new movie next month."],
+    "answer": "She will have watched a new movie next month.",
+    "tense": "Future Perfect"
+  },
+  {
+    "question": "ہم اگلے دو گھنٹے سے کھیل رہے ہوں گے۔",
+    "options": ["We will have been playing for 2 hours.", "We play for 2 hours.", "We are playing for 2 hours."],
+    "answer": "We will have been playing for 2 hours.",
+    "tense": "Future Perfect Continuous"
+  }
+]

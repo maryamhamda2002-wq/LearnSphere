@@ -1,0 +1,782 @@
+[
+  {
+    "question": "I ___ cricket yesterday.",
+    "options": ["play", "played", "am playing"],
+    "answer": "played",
+    "urdu": "میں نے کل کرکٹ کھیلی۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "She ___ TV last night.",
+    "options": ["watches", "watched", "is watching"],
+    "answer": "watched",
+    "urdu": "اس نے کل رات ٹی وی دیکھا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "They ___ football when it rained.",
+    "options": ["played", "were playing", "are playing"],
+    "answer": "were playing",
+    "urdu": "وہ فٹبال کھیل رہے تھے جب بارش ہوئی۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "I ___ my homework before dinner.",
+    "options": ["had done", "did", "have done"],
+    "answer": "had done",
+    "urdu": "میں کھانے سے پہلے کام کر چکا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "He ___ there for two hours before I came.",
+    "options": ["had been waiting", "was waiting", "waited"],
+    "answer": "had been waiting",
+    "urdu": "وہ دو گھنٹے سے انتظار کر رہا تھا۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "We ___ dinner when the guests arrived.",
+    "options": ["had", "were having", "have"],
+    "answer": "were having",
+    "urdu": "ہم کھانا کھا رہے تھے جب مہمان آئے۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "She ___ all her work before the meeting started.",
+    "options": ["had finished", "finished", "finishes"],
+    "answer": "had finished",
+    "urdu": "اس نے میٹنگ شروع ہونے سے پہلے اپنا سارا کام مکمل کر لیا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "They ___ football for 2 hours before it started raining.",
+    "options": ["played", "had been playing", "are playing"],
+    "answer": "had been playing",
+    "urdu": "وہ بارش شروع ہونے سے پہلے دو گھنٹے سے فٹبال کھیل رہے تھے۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "I ___ a letter to my friend last week.",
+    "options": ["wrote", "write", "was writing"],
+    "answer": "wrote",
+    "urdu": "میں نے پچھلے ہفتے اپنے دوست کو خط لکھا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "While I ___ my homework, my brother was watching TV.",
+    "options": ["did", "was doing", "have done"],
+    "answer": "was doing",
+    "urdu": "جب میں اپنا ہوم ورک کر رہا تھا، میرا بھائی ٹی وی دیکھ رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "By the time I arrived, the show ___ already started.",
+    "options": ["had", "had been", "was"],
+    "answer": "had",
+    "urdu": "جب میں پہنچا، شو پہلے ہی شروع ہو چکا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "She ___ for the bus for 30 minutes before it came.",
+    "options": ["waited", "had been waiting", "was waiting"],
+    "answer": "had been waiting",
+    "urdu": "وہ بس کے لیے 30 منٹ انتظار کر رہی تھی جب وہ آئی۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "He ___ to school yesterday.",
+    "options": ["went", "go", "has gone"],
+    "answer": "went",
+    "urdu": "وہ کل اسکول گیا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "While we ___ dinner, the phone rang.",
+    "options": ["had", "were having", "have had"],
+    "answer": "were having",
+    "urdu": "جب ہم کھانا کھا رہے تھے، فون بجا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "I ___ the book before you asked for it.",
+    "options": ["had read", "read", "was reading"],
+    "answer": "had read",
+    "urdu": "میں نے کتاب اس سے پہلے پڑھ لی تھی جب آپ نے مانگی۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "They ___ in the park for an hour before it started raining.",
+    "options": ["played", "had been playing", "were playing"],
+    "answer": "had been playing",
+    "urdu": "وہ بارش شروع ہونے سے پہلے ایک گھنٹے سے پارک میں کھیل رہے تھے۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "I ___ a new dress for the party yesterday.",
+    "options": ["bought", "buy", "am buying"],
+    "answer": "bought",
+    "urdu": "میں نے کل پارٹی کے لیے نیا لباس خریدا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "While she ___ the letter, the postman came.",
+    "options": ["was writing", "wrote", "writes"],
+    "answer": "was writing",
+    "urdu": "جب وہ خط لکھ رہی تھی، ڈاکیا آیا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "He ___ all the exams before the holidays started.",
+    "options": ["had completed", "completed", "has completed"],
+    "answer": "had completed",
+    "urdu": "اس نے تعطیلات شروع ہونے سے پہلے تمام امتحانات مکمل کر لیے تھے۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ my homework for 2 hours before dinner.",
+    "options": ["had been doing", "did", "was doing"],
+    "answer": "had been doing",
+    "urdu": "میں نے کھانے سے پہلے 2 گھنٹے اپنا ہوم ورک کر رہا تھا۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "He ___ the car before I arrived.",
+    "options": ["had washed", "washed", "was washing"],
+    "answer": "had washed",
+    "urdu": "اس نے میرے آنے سے پہلے گاڑی دھو دی تھی۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "They ___ for the train when it finally came.",
+    "options": ["were waiting", "waited", "had waited"],
+    "answer": "were waiting",
+    "urdu": "وہ ٹرین کے لیے انتظار کر رہے تھے جب یہ آخر کار آئی۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "I ___ the movie twice before it was removed from theaters.",
+    "options": ["had watched", "watched", "was watching"],
+    "answer": "had watched",
+    "urdu": "میں نے فلم کو تھیٹر سے ہٹائے جانے سے پہلے دو بار دیکھا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "She ___ all morning before the guests arrived.",
+    "options": ["had been cooking", "cooked", "was cooking"],
+    "answer": "had been cooking",
+    "urdu": "اس نے مہمانوں کے آنے سے پہلے ساری صبح کھانا پکایا تھا۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "While I ___ my book, my sister was playing outside.",
+    "options": ["was reading", "read", "had read"],
+    "answer": "was reading",
+    "urdu": "جب میں اپنی کتاب پڑھ رہا تھا، میری بہن باہر کھیل رہی تھی۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "By the time we reached the station, the train ___.",
+    "options": ["had left", "left", "was leaving"],
+    "answer": "had left",
+    "urdu": "جب ہم اسٹیشن پہنچے، ٹرین جا چکی تھی۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ in the garden for 30 minutes before it started raining.",
+    "options": ["had been sitting", "sat", "was sitting"],
+    "answer": "had been sitting",
+    "urdu": "میں بارش شروع ہونے سے پہلے 30 منٹ باغ میں بیٹھا رہا۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "He ___ his keys yesterday.",
+    "options": ["lost", "loses", "was losing"],
+    "answer": "lost",
+    "urdu": "اس نے کل اپنی چابیاں کھو دی تھیں۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "While they ___ for the bus, it started raining.",
+    "options": ["were waiting", "waited", "had waited"],
+    "answer": "were waiting",
+    "urdu": "جب وہ بس کا انتظار کر رہے تھے، بارش شروع ہو گئی۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "She ___ the project before the deadline.",
+    "options": ["had completed", "completed", "was completing"],
+    "answer": "had completed",
+    "urdu": "اس نے مقررہ وقت سے پہلے پروجیکٹ مکمل کر لیا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ my homework when the phone rang.",
+    "options": ["was doing", "did", "had done"],
+    "answer": "was doing",
+    "urdu": "جب فون بجا، میں اپنا ہوم ورک کر رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "They ___ to the market before it closed.",
+    "options": ["had gone", "went", "were going"],
+    "answer": "had gone",
+    "urdu": "وہ مارکیٹ جا چکے تھے اس سے پہلے کہ یہ بند ہو گئی۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "She ___ for two hours before the guests arrived.",
+    "options": ["had been cleaning", "cleaned", "was cleaning"],
+    "answer": "had been cleaning",
+    "urdu": "وہ مہمانوں کے آنے سے پہلے دو گھنٹے سے صفائی کر رہی تھی۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "We ___ a wonderful trip last summer.",
+    "options": ["had", "have", "were having"],
+    "answer": "had",
+    "urdu": "ہم نے پچھلی گرمیوں میں ایک شاندار سفر کیا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "While I ___ TV, my brother was reading a book.",
+    "options": ["was watching", "watched", "had watched"],
+    "answer": "was watching",
+    "urdu": "جب میں ٹی وی دیکھ رہا تھا، میرا بھائی کتاب پڑھ رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "By the time she reached home, her parents ___ dinner.",
+    "options": ["had eaten", "ate", "were eating"],
+    "answer": "had eaten",
+    "urdu": "جب وہ گھر پہنچی، اس کے والدین کھانا کھا چکے تھے۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "He ___ in the garden for three hours before it got dark.",
+    "options": ["had been playing", "played", "was playing"],
+    "answer": "had been playing",
+    "urdu": "وہ اندھیرا ہونے سے پہلے تین گھنٹے سے باغ میں کھیل رہا تھا۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "I ___ a letter to my friend yesterday.",
+    "options": ["wrote", "write", "was writing"],
+    "answer": "wrote",
+    "urdu": "میں نے کل اپنے دوست کو خط لکھا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "They ___ football when it started raining heavily.",
+    "options": ["were playing", "played", "had played"],
+    "answer": "were playing",
+    "urdu": "جب شدید بارش شروع ہوئی، وہ فٹبال کھیل رہے تھے۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "She ___ her homework before she went out to play.",
+    "options": ["had finished", "finished", "was finishing"],
+    "answer": "had finished",
+    "urdu": "اس نے کھیلنے کے لیے باہر جانے سے پہلے اپنا ہوم ورک مکمل کر لیا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ my bike yesterday evening.",
+    "options": ["rode", "ride", "was riding"],
+    "answer": "rode",
+    "urdu": "میں نے کل شام اپنی بائیک چلائی۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "She ___ while I was cooking dinner.",
+    "options": ["was reading", "read", "had read"],
+    "answer": "was reading",
+    "urdu": "جب میں رات کا کھانا بنا رہا تھا، وہ پڑھ رہی تھی۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "They ___ the project before the deadline.",
+    "options": ["had completed", "completed", "were completing"],
+    "answer": "had completed",
+    "urdu": "انہوں نے مقررہ وقت سے پہلے پروجیکٹ مکمل کر لیا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "We ___ for two hours before the bus arrived.",
+    "options": ["had been waiting", "waited", "were waiting"],
+    "answer": "had been waiting",
+    "urdu": "ہم بس کے آنے سے پہلے دو گھنٹے سے انتظار کر رہے تھے۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "He ___ a beautiful painting last month.",
+    "options": ["painted", "paints", "was painting"],
+    "answer": "painted",
+    "urdu": "اس نے پچھلے مہینے ایک خوبصورت پینٹنگ بنائی۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "I ___ music while my sister was studying.",
+    "options": ["was listening", "listened", "had listened"],
+    "answer": "was listening",
+    "urdu": "جب میری بہن پڑھ رہی تھی، میں موسیقی سن رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "She ___ her keys before leaving the house.",
+    "options": ["had found", "found", "was finding"],
+    "answer": "had found",
+    "urdu": "اس نے گھر چھوڑنے سے پہلے اپنی چابیاں ڈھونڈ لی تھیں۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "They ___ in the park for an hour before it started raining.",
+    "options": ["had been walking", "walked", "were walking"],
+    "answer": "had been walking",
+    "urdu": "انہوں نے بارش شروع ہونے سے پہلے ایک گھنٹہ پارک میں چہل قدمی کی تھی۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "I ___ a delicious cake yesterday.",
+    "options": ["baked", "bake", "was baking"],
+    "answer": "baked",
+    "urdu": "میں نے کل ایک مزیدار کیک بنایا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "He ___ TV when the lights went out.",
+    "options": ["was watching", "watched", "had watched"],
+    "answer": "was watching",
+    "urdu": "جب بجلی چلی گئی، وہ ٹی وی دیکھ رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "She ___ her homework before going out.",
+    "options": ["had finished", "finished", "was finishing"],
+    "answer": "had finished",
+    "urdu": "اس نے باہر جانے سے پہلے اپنا ہوم ورک ختم کر لیا تھا۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ when you called me last night.",
+    "options": ["was sleeping", "slept", "had slept"],
+    "answer": "was sleeping",
+    "urdu": "جب تم نے مجھے پچھلی رات کال کی، میں سو رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "They ___ a new car last month.",
+    "options": ["bought", "buy", "were buying"],
+    "answer": "bought",
+    "urdu": "انہوں نے پچھلے مہینے ایک نئی کار خریدی۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "We ___ for three hours before the train arrived.",
+    "options": ["had been waiting", "waited", "were waiting"],
+    "answer": "had been waiting",
+    "urdu": "ہم تین گھنٹے سے انتظار کر رہے تھے جب ٹرین پہنچی۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "He ___ the report before the manager asked.",
+    "options": ["had completed", "completed", "was completing"],
+    "answer": "had completed",
+    "urdu": "اس نے رپورٹ منیجر کے پوچھنے سے پہلے مکمل کر لی تھی۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ in the garden when it started raining.",
+    "options": ["was working", "worked", "had worked"],
+    "answer": "was working",
+    "urdu": "جب بارش شروع ہوئی، میں باغ میں کام کر رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "She ___ a beautiful dress for the party yesterday.",
+    "options": ["wore", "wear", "was wearing"],
+    "answer": "wore",
+    "urdu": "اس نے کل پارٹی کے لیے ایک خوبصورت کپڑا پہنا۔",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "They ___ in the library for two hours before lunch.",
+    "options": ["had been studying", "studied", "were studying"],
+    "answer": "had been studying",
+    "urdu": "انہوں نے دو گھنٹے سے لائبریری میں پڑھائی کر رہے تھے جب لنچ ہوا۔",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "He ___ the window before leaving the room.",
+    "options": ["had closed", "closed", "was closing"],
+    "answer": "had closed",
+    "urdu": "اس نے کمرے سے نکلنے سے پہلے کھڑکی بند کر دی تھی۔",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "I ___ a letter when the phone rang.",
+    "options": ["was writing", "wrote", "had written"],
+    "answer": "was writing",
+    "urdu": "جب فون بجا، میں خط لکھ رہا تھا۔",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں کل اسکول گیا تھا۔",
+    "options": ["I went to school yesterday.", "I go to school yesterday.", "I am going to school yesterday."],
+    "answer": "I went to school yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ کتاب پڑھ رہا تھا جب میں آیا۔",
+    "options": ["He was reading a book when I arrived.", "He reads a book when I arrived.", "He read a book when I arrived."],
+    "answer": "He was reading a book when I arrived.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے کھانے سے پہلے اپنا کام مکمل کر لیا تھا۔",
+    "options": ["I had completed my work before eating.", "I completed my work before eating.", "I was completing my work before eating."],
+    "answer": "I had completed my work before eating.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ دو گھنٹے سے ٹی وی دیکھ رہا تھا جب ہم پہنچے۔",
+    "options": ["He had been watching TV for two hours when we arrived.", "He was watching TV for two hours when we arrived.", "He watched TV for two hours when we arrived."],
+    "answer": "He had been watching TV for two hours when we arrived.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "انہوں نے کل ایک نئی کار خریدی۔",
+    "options": ["They bought a new car yesterday.", "They buy a new car yesterday.", "They had bought a new car yesterday."],
+    "answer": "They bought a new car yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "میں بارش ہونے سے پہلے باغ میں کام کر رہا تھا۔",
+    "options": ["I was working in the garden before it rained.", "I worked in the garden before it rained.", "I had worked in the garden before it rained."],
+    "answer": "I was working in the garden before it rained.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "اس نے منیجر کے پوچھنے سے پہلے رپورٹ مکمل کر دی تھی۔",
+    "options": ["She had completed the report before the manager asked.", "She completed the report before the manager asked.", "She was completing the report before the manager asked."],
+    "answer": "She had completed the report before the manager asked.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "انہوں نے دو گھنٹے سے لائبریری میں پڑھائی کر رہے تھے جب لنچ ہوا۔",
+    "options": ["They had been studying in the library for two hours when lunch came.", "They were studying in the library for two hours when lunch came.", "They studied in the library for two hours when lunch came."],
+    "answer": "They had been studying in the library for two hours when lunch came.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "جب فون بجا، میں خط لکھ رہا تھا۔",
+    "options": ["I was writing a letter when the phone rang.", "I wrote a letter when the phone rang.", "I had written a letter when the phone rang."],
+    "answer": "I was writing a letter when the phone rang.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "اس نے کل رات ٹی وی دیکھا۔",
+    "options": ["She watched TV last night.", "She watches TV last night.", "She had watched TV last night."],
+    "answer": "She watched TV last night.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "میں نے کل دوست سے ملاقات کی۔",
+    "options": ["I met my friend yesterday.", "I meet my friend yesterday.", "I was meeting my friend yesterday."],
+    "answer": "I met my friend yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ فلم دیکھ رہا تھا جب بجلی چلی گئی۔",
+    "options": ["He was watching a movie when the electricity went out.", "He watched a movie when the electricity went out.", "He had watched a movie when the electricity went out."],
+    "answer": "He was watching a movie when the electricity went out.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے امتحان دینے سے پہلے کتابیں پڑھ لی تھیں۔",
+    "options": ["I had read the books before taking the exam.", "I read the books before taking the exam.", "I was reading the books before taking the exam."],
+    "answer": "I had read the books before taking the exam.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ دو گھنٹے سے کھانا پکا رہی تھی جب دوست آئے۔",
+    "options": ["She had been cooking for two hours when friends came.", "She cooked for two hours when friends came.", "She was cooking for two hours when friends came."],
+    "answer": "She had been cooking for two hours when friends came.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "انہوں نے کل ایک خوبصورت تصویر بنائی۔",
+    "options": ["They drew a beautiful picture yesterday.", "They draw a beautiful picture yesterday.", "They had drawn a beautiful picture yesterday."],
+    "answer": "They drew a beautiful picture yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "میں بارش ہونے سے پہلے کھیل رہا تھا۔",
+    "options": ["I was playing before it rained.", "I played before it rained.", "I had played before it rained."],
+    "answer": "I was playing before it rained.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "اس نے سب کے آنے سے پہلے کمرہ صاف کر دیا تھا۔",
+    "options": ["She had cleaned the room before everyone came.", "She cleaned the room before everyone came.", "She was cleaning the room before everyone came."],
+    "answer": "She had cleaned the room before everyone came.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "انہوں نے دو گھنٹے سے بازار کی خریداری کی تھی جب بارش شروع ہوئی۔",
+    "options": ["They had been shopping for two hours when it started raining.", "They shopped for two hours when it started raining.", "They were shopping for two hours when it started raining."],
+    "answer": "They had been shopping for two hours when it started raining.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "جب فون بجا، میں کھیل رہا تھا۔",
+    "options": ["I was playing when the phone rang.", "I played when the phone rang.", "I had played when the phone rang."],
+    "answer": "I was playing when the phone rang.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "اس نے کل رات کھانا کھایا۔",
+    "options": ["He ate dinner last night.", "He eats dinner last night.", "He had eaten dinner last night."],
+    "answer": "He ate dinner last night.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "میں نے کل کتاب پڑھی۔",
+    "options": ["I read a book yesterday.", "I am reading a book yesterday.", "I had read a book yesterday."],
+    "answer": "I read a book yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ کھڑکی کے پاس کھڑا تھا۔",
+    "options": ["He was standing near the window.", "He stood near the window.", "He had stood near the window."],
+    "answer": "He was standing near the window.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "ہم نے کھانا کھا لیا تھا جب مہمان آئے۔",
+    "options": ["We had eaten before the guests arrived.", "We ate before the guests arrived.", "We were eating before the guests arrived."],
+    "answer": "We had eaten before the guests arrived.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "میں دو گھنٹے سے ورزش کر رہا تھا جب فون آیا۔",
+    "options": ["I had been exercising for two hours when the phone rang.", "I was exercising for two hours when the phone rang.", "I exercised for two hours when the phone rang."],
+    "answer": "I had been exercising for two hours when the phone rang.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "اس نے کل ایک خط لکھا۔",
+    "options": ["He wrote a letter yesterday.", "He was writing a letter yesterday.", "He had written a letter yesterday."],
+    "answer": "He wrote a letter yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ فلم دیکھ رہی تھی جب بجلی چلی گئی۔",
+    "options": ["She was watching a movie when the electricity went out.", "She watched a movie when the electricity went out.", "She had watched a movie when the electricity went out."],
+    "answer": "She was watching a movie when the electricity went out.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے اپنا کام مکمل کر لیا تھا جب استاد آئے۔",
+    "options": ["I had finished my work before the teacher came.", "I finished my work before the teacher came.", "I was finishing my work before the teacher came."],
+    "answer": "I had finished my work before the teacher came.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ دو گھنٹے سے گانا گا رہی تھی جب دوست آئے۔",
+    "options": ["She had been singing for two hours when friends came.", "She was singing for two hours when friends came.", "She sang for two hours when friends came."],
+    "answer": "She had been singing for two hours when friends came.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "میں کھیل رہا تھا جب بارش شروع ہوئی۔",
+    "options": ["I was playing when it started raining.", "I played when it started raining.", "I had played when it started raining."],
+    "answer": "I was playing when it started raining.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "اس نے کل رات کھانا بنایا۔",
+    "options": ["He cooked dinner last night.", "He was cooking dinner last night.", "He had cooked dinner last night."],
+    "answer": "He cooked dinner last night.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "ہم اسکول گئے تھے۔",
+    "options": ["We had gone to school.", "We went to school.", "We were going to school."],
+    "answer": "We had gone to school.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ کتاب پڑھ رہا تھا جب فون آیا۔",
+    "options": ["He was reading a book when the phone rang.", "He read a book when the phone rang.", "He had read a book when the phone rang."],
+    "answer": "He was reading a book when the phone rang.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے دو گھنٹے سے پڑھائی کی تھی جب دوست آئے۔",
+    "options": ["I had been studying for two hours when friends came.", "I was studying for two hours when friends came.", "I studied for two hours when friends came."],
+    "answer": "I had been studying for two hours when friends came.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "اس نے کل ایک خط بھیجا۔",
+    "options": ["She sent a letter yesterday.", "She was sending a letter yesterday.", "She had sent a letter yesterday."],
+    "answer": "She sent a letter yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ کھیل رہا تھا جب بارش ہوئی۔",
+    "options": ["He was playing when it rained.", "He played when it rained.", "He had played when it rained."],
+    "answer": "He was playing when it rained.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے کھانا کھا لیا تھا جب دوست آئے۔",
+    "options": ["I had eaten when friends came.", "I ate when friends came.", "I was eating when friends came."],
+    "answer": "I had eaten when friends came.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ دو گھنٹے سے کام کر رہا تھا جب فون آیا۔",
+    "options": ["He had been working for two hours when the phone rang.", "He was working for two hours when the phone rang.", "He worked for two hours when the phone rang."],
+    "answer": "He had been working for two hours when the phone rang.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "میں نے کل نئے جوتے خریدے۔",
+    "options": ["I bought new shoes yesterday.", "I was buying new shoes yesterday.", "I had bought new shoes yesterday."],
+    "answer": "I bought new shoes yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ کتاب پڑھ رہی تھی جب استاد آئے۔",
+    "options": ["She was reading a book when the teacher came.", "She read a book when the teacher came.", "She had read a book when the teacher came."],
+    "answer": "She was reading a book when the teacher came.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "ہم نے کھیل ختم کر لیا تھا جب بارش شروع ہوئی۔",
+    "options": ["We had finished playing when it started raining.", "We finished playing when it started raining.", "We were finishing playing when it started raining."],
+    "answer": "We had finished playing when it started raining.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "میں نے کل ٹی وی دیکھا۔",
+    "options": ["I watched TV yesterday.", "I am watching TV yesterday.", "I had watched TV yesterday."],
+    "answer": "I watched TV yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ کتاب پڑھ رہا تھا جب بارش شروع ہوئی۔",
+    "options": ["He was reading a book when it started raining.", "He read a book when it started raining.", "He had read a book when it started raining."],
+    "answer": "He was reading a book when it started raining.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے کھانا کھا لیا تھا جب دوست آئے۔",
+    "options": ["I had eaten when friends came.", "I ate when friends came.", "I was eating when friends came."],
+    "answer": "I had eaten when friends came.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ دو گھنٹے سے کام کر رہا تھا جب فون آیا۔",
+    "options": ["He had been working for two hours when the phone rang.", "He was working for two hours when the phone rang.", "He worked for two hours when the phone rang."],
+    "answer": "He had been working for two hours when the phone rang.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "اس نے کل نیا موبائل خریدا۔",
+    "options": ["He bought a new mobile yesterday.", "He was buying a new mobile yesterday.", "He had bought a new mobile yesterday."],
+    "answer": "He bought a new mobile yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "ہم اسکول جا رہے تھے جب بارش ہوئی۔",
+    "options": ["We were going to school when it rained.", "We went to school when it rained.", "We had gone to school when it rained."],
+    "answer": "We were going to school when it rained.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے اپنا کام مکمل کر لیا تھا جب استاد آئے۔",
+    "options": ["I had finished my work when the teacher came.", "I finished my work when the teacher came.", "I was finishing my work when the teacher came."],
+    "answer": "I had finished my work when the teacher came.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "وہ دو گھنٹے سے گانا گا رہی تھی جب دوست آئے۔",
+    "options": ["She had been singing for two hours when friends came.", "She was singing for two hours when friends came.", "She sang for two hours when friends came."],
+    "answer": "She had been singing for two hours when friends came.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "میں کھیل رہا تھا جب بارش شروع ہوئی۔",
+    "options": ["I was playing when it started raining.", "I played when it started raining.", "I had played when it started raining."],
+    "answer": "I was playing when it started raining.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "اس نے کل رات کھانا بنایا۔",
+    "options": ["He cooked dinner last night.", "He was cooking dinner last night.", "He had cooked dinner last night."],
+    "answer": "He cooked dinner last night.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "ہم نے اسکول ختم کیا تھا جب بارش شروع ہوئی۔",
+    "options": ["We had finished school when it started raining.", "We finished school when it started raining.", "We were finishing school when it started raining."],
+    "answer": "We had finished school when it started raining.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "میں دو گھنٹے سے پڑھ رہا تھا جب دوست آئے۔",
+    "options": ["I had been studying for two hours when friends came.", "I was studying for two hours when friends came.", "I studied for two hours when friends came."],
+    "answer": "I had been studying for two hours when friends came.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "وہ کتاب پڑھ رہی تھی جب استاد آئے۔",
+    "options": ["She was reading a book when the teacher came.", "She read a book when the teacher came.", "She had read a book when the teacher came."],
+    "answer": "She was reading a book when the teacher came.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے کل ایک خط لکھا۔",
+    "options": ["I wrote a letter yesterday.", "I was writing a letter yesterday.", "I had written a letter yesterday."],
+    "answer": "I wrote a letter yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ دو گھنٹے سے کرکٹ کھیل رہا تھا جب بارش ہوئی۔",
+    "options": ["He had been playing cricket for two hours when it rained.", "He was playing cricket for two hours when it rained.", "He played cricket for two hours when it rained."],
+    "answer": "He had been playing cricket for two hours when it rained.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "میں نے اپنی ہوم ورک مکمل کر لیا تھا جب دوست آئے۔",
+    "options": ["I had finished my homework when friends came.", "I finished my homework when friends came.", "I was finishing my homework when friends came."],
+    "answer": "I had finished my homework when friends came.",
+    "tense": "Past Perfect"
+  },
+  {
+    "question": "اس نے کل فلم دیکھی۔",
+    "options": ["He watched a movie yesterday.", "He was watching a movie yesterday.", "He had watched a movie yesterday."],
+    "answer": "He watched a movie yesterday.",
+    "tense": "Simple Past"
+  },
+  {
+    "question": "وہ کتاب پڑھ رہا تھا جب فون آیا۔",
+    "options": ["He was reading a book when the phone rang.", "He read a book when the phone rang.", "He had read a book when the phone rang."],
+    "answer": "He was reading a book when the phone rang.",
+    "tense": "Past Continuous"
+  },
+  {
+    "question": "میں نے کل دو گھنٹے سے کام کیا تھا۔",
+    "options": ["I had been working for two hours yesterday.", "I was working for two hours yesterday.", "I worked for two hours yesterday."],
+    "answer": "I had been working for two hours yesterday.",
+    "tense": "Past Perfect Continuous"
+  },
+  {
+    "question": "ہم نے کل اسکول کا کام ختم کیا۔",
+    "options": ["We finished school work yesterday.", "We were finishing school work yesterday.", "We had finished school work yesterday."],
+    "answer": "We finished school work yesterday.",
+    "tense": "Simple Past"
+  }
+]
